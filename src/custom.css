@@ -1,0 +1,13 @@
+/* src/custom.css */
+
+/* Cambiar el color de fondo del botón primario */
+.btn-primary {
+   background-color: #4CAF50;
+   /* Un verde personalizado */
+   border-color: #4CAF50;
+}
+
+/* Cambiar el tamaño de la fuente de la barra de navegación */
+.navbar-nav .nav-link {
+   font-size: 18px;
+}
